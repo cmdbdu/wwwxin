@@ -14,8 +14,8 @@ from wechat_sdk.messages import (TextMessage,
                                 LinkMessage,
                                 EventMessage)
 wechat_token = 'wwwxin'
-wechat_appid = 'wx3551c5706e971b88'
-wechat_appsecret = 'ff4578809ac4686fa1201876ef7fe6d2'
+wechat_appid = ''
+wechat_appsecret = ''
 
 wechat_instance = WechatBasic(
         token = wechat_token,
